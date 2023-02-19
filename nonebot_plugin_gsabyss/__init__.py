@@ -1,6 +1,6 @@
 from nonebot.params import CommandArg
 from nonebot.plugin import on_command
-from nonebot.adapters.onebot.v11 import Message, MessageSegment
+from nonebot.adapters.ntchat import Message, MessageSegment
 
 from .config import plugin_config
 from .draw_quickview import AbyssQuickViewDraw
