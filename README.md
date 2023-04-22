@@ -2,8 +2,8 @@
 
 
 <p align="center">🤖 用于展示原神深境螺旋数据的 NoneBot2 插件</p></br>
-<p align="center">支持 [[@JustUndertaker/ComWeChatBotClient](https://github.com/JustUndertaker/ComWeChatBotClient/)] 的 OneBotV12 插件</p></br>
-
+modified:   README.md
+[@JustUndertaker/ComWeChatBotClient](https://github.com/JustUndertaker/ComWeChatBotClient/) 的 OneBotV12 插件
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/monsterxcn/nonebot-plugin-gsabyss/master/LICENSE"><img src="https://img.shields.io/github/license/monsterxcn/nonebot-plugin-gsabyss" alt="license" /></a>
