@@ -2,7 +2,6 @@
 
 
 <p align="center">🤖 用于展示原神深境螺旋数据的 NoneBot2 插件</p></br>
-
 [@JustUndertaker/ComWeChatBotClient](https://github.com/JustUndertaker/ComWeChatBotClient/) 的 OneBotV12 插件
 
 <p align="center">
